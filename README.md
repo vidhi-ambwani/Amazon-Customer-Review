@@ -27,8 +27,8 @@ This project is aimed at performing sentiment analysis on Amazon customer review
 * Text: Actual review provided by the customer<br>
 
 ## File Execution
-* Reviews.csv: Dataset containing approx 50k Amazon customers, products, and their review<br>
-* Final Amazon Customer Review.ipynb
+* Reviews.csv: Dataset containing approx 500k Amazon customers, products, and their review<br>
+* Final Amazon Customer Review.ipynb: Jupyter Notebook consisting of EDA and analysis performed on customer reviews.
 
 
 
